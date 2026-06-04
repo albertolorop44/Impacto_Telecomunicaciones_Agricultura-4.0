@@ -22,15 +22,14 @@ Por motivos de confidencialidad, los datos reales utilizados en el Trabajo de Fi
 
 ## Estructura prevista
 
-```text
-notebooks/
-    01_maiz_cerro_cruz.ipynb
-    02_analisis_cultivos.ipynb
-    03_impacto_economico.ipynb
+Notebooks/
+    Cuadernos principales del análisis.
 
 data/
-    README_datos.md
+    Descripción de los datos utilizados. Los datos reales no se incluyen por confidencialidad.
 
-outputs/
-    figuras/
-    tablas/
+Graficas/
+    Figuras principales generadas durante el análisis.
+
+requirements.txt
+    Librerías necesarias para ejecutar los notebooks.
